@@ -1,7 +1,7 @@
 # zerosocialcode
 
 <p align="center">
-  <a href="https://t.me/zerosocialcode_projects" target="_blank">
+  <a href="https://t.me/zerosocialcode" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="90"/>
   </a>
 </p>
